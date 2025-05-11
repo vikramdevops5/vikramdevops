@@ -1,0 +1,22 @@
+git init 
+vi test2.txt
+git status
+
+git add .
+
+git commit -m "yourmessage"
+
+git log 
+
+git remote add origin  https://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@github.com/vikramdevops5/vikramdevops
+
+git push -u origin master 
+
+
+
+
+
+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
+
+
+git remote add origin https://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@github.com/vikramdevops5/vikramdevops
